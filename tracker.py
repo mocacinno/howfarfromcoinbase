@@ -3,7 +3,7 @@ import time
 import requests
 
 numberlevels = 5000
-#whalemixer, the mixer that promises fresh coins but fails to deliver
+#whalemixer's output to TryNinja
 seed = 'a576790d4b0180611d9703d86538f943120ce928dafc4daf016128a66fb4730a'
 #my own last unspent output funding my public address
 #seed = 'b3c2c7d070d970e4af4a9eeb229ce645a556f969e1d3b556593c08ff5e1ee2ef'
